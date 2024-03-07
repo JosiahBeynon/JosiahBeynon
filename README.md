@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @JosiahBeynon
+- 👀 I’m interested in: AI, ML, & Data via Python
+- 🌱 I’m currently learning: Streamlit (coding), contemplative prayer (personal)
+- 📫 How to reach me: hey@josiahbeynon.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I code on a walking desks and ergonomic periphials. I'm slowly uploading my [historic setups](https://github.com/JosiahBeynon/desk-setups)
+
+
+<!---- 💞️ I’m looking to collaborate on ... --->
+<!---
+JosiahBeynon/JosiahBeynon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
