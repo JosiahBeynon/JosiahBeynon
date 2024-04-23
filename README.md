@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @JosiahBeynon
 - 👀 I’m interested in: AI, ML, & Data via Python
-- 🌱 I’m currently learning/improving: Résumé crafting (professional), robotics (social coding), contemplative prayer (personal)
+- 🌱 I’m currently learning/improving: RAG (professional), robotics (social coding), contemplative prayer (personal)
 - 📫 How to reach me: hey@josiahbeynon.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I code on a walking desk and ergonomic peripherals. I'm slowly uploading my historic setups
+- ⚡ Fun fact: I code on a walking desk and ergonomic peripherals. I'm slowly uploading my [historic setups](https://github.com/JosiahBeynon/desk-setups)
 
 <!---- 💞️ I’m looking to collaborate on ... --->
 <!---
